@@ -22,10 +22,17 @@ V tej projektni nalogi se osredotočamo na pridobivanje podatkov iz spletne stra
 (Tu vstavite korake in navodila za uporabo vašega programa.)
 
 ## **Rezultati Hipotez:**
-(Tukaj vstavite rezultate vaših analiz za vsako hipotezo.)
+1. Kateri žanri filmov so najboljše ocenjeni?
+   
+3. Ali obstaja povezava med dolžino filma in oceno filma?
+   
+5. Ali obstaja povezava med budgetom in revenuem filma?
+   
+7. Ali obstaja povezava med datumom izdaje filma in oceno filma?
+   
 
 ## **Viri:**
 - [TheMovieDB](https://www.themoviedb.org/)
 
 ## **Avtor:**
-(Ime avtorja ali uporabniško ime na Githubu.)
+Nino Djordjević
