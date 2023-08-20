@@ -19,13 +19,13 @@ V tej projektni nalogi se osredotočamo na pridobivanje podatkov iz spletne stra
 4. Ali obstaja povezava med mesecom izdaje filma in oceno filma?
 
 ## **Navodila za Uporabo:**
-Potrebni moduli:
--Beautifulsoup4
--Selenium
--Python
--Pandas
--numpy
--scipy
+Potrebni moduli: 
+- `Beautifulsoup4` 
+- Selenium 
+- Python
+- Pandas
+- numpy
+- scipy
 V scrape.py je potrebno spremeniti lokacijo chromedrivera, število želenih niti in število strani za obdelavo (1 stran ~ 20 filmov)
 Za pridobitev podatkov zaženemo scrape.py, ki zgenerira datoteko movies.csv.
 Nato zaženemo analyse.py, ki nam izpiše korelacije za hipoteze 1 do 4.
