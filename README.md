@@ -34,9 +34,9 @@ Nato zaženemo analyse.py, ki nam izpiše korelacije za hipoteze 1 do 4.
 1. Kateri žanri filmov so najboljše ocenjeni?
   
 2. Ali obstaja povezava med dolžino filma in oceno filma?
-    Correlation between Duration and Score: 0.25, P-value: 0.0000
+  Korelacija in P-value: 0.25, P-value: 0.0000
 3. Ali obstaja povezava med budgetom in revenuem filma?
-   Correlation between Budget and Revenue: 0.73, P-value: 0.0000
+  Korelacija in P-value: 0.73, P-value: 0.0000
 4. Ali obstaja povezava med mesecom izdaje filma in oceno filma?
    
 
