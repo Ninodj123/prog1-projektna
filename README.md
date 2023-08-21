@@ -26,6 +26,16 @@ Potrebni moduli:
 - Pandas
 - numpy
 - scipy
+- matplotlib
+- pip install pandas
+Te naložimo tako, da v CMD ali Vscode terminal vpišemo naslednje ukaze:
+- pip install numpy
+- pip install scipy
+- pip install matplotlib
+- pip install selenium
+- pip install beautifulsoup4
+
+  
 V scrape.py je potrebno spremeniti lokacijo chromedrivera, število želenih niti in število strani za obdelavo (1 stran ~ 20 filmov)
 Za pridobitev podatkov zaženemo scrape.py, ki zgenerira datoteko movies.csv.
 Nato zaženemo analyse.py, ki nam izpiše korelacije za hipoteze 1 do 4.
