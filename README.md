@@ -28,6 +28,8 @@ Potrebni moduli:
 - scipy
 - matplotlib
 - pip install pandas
+
+  
 Te naložimo tako, da v CMD ali Vscode terminal vpišemo naslednje ukaze:
 - pip install numpy
 - pip install scipy
@@ -41,13 +43,38 @@ Za pridobitev podatkov zaženemo scrape.py, ki zgenerira datoteko movies.csv.
 Nato zaženemo analyse.py, ki nam izpiše korelacije za hipoteze 1 do 4.
 
 ## **Rezultati Hipotez:**
-1. Kateri žanri filmov so najboljše ocenjeni?
-  
-2. Ali obstaja povezava med dolžino filma in oceno filma?
-  Korelacija in P-value: 0.25, P-value: 0.0000
-3. Ali obstaja povezava med budgetom in revenuem filma?
-  Korelacija in P-value: 0.73, P-value: 0.0000
-4. Ali obstaja povezava med mesecom izdaje filma in oceno filma?
+
+
+H1: Korelacija med žanrom in oceno: 
+
+1.35, P-value: 0.1476
+
+
+Ni statistično pomembne korelacije med žanrom in oceno.
+
+
+H2: Korelacija med dožino filma in oceno: 
+
+0.11, P-value: 0.0002
+
+
+Je statistično pomembna korelacija med dolžino in oceno.
+
+
+H3: Korelacija med proračunom in prihodkom: 
+
+0.77, P-value: 0.0000
+
+
+Je statistično pomembna korelacija med proračunom in prihodkom.
+
+
+H4: Korelacija med mesecem izdaje in oceno filma: 0.02, P-value: 0.5120
+
+
+Ni statistično pomembne korelacije med mesecem izdaje in oceno filma.
+
+
    
 
 ## **Viri:**
