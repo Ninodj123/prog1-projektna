@@ -77,6 +77,8 @@ H4: Korelacija med mesecem izdaje in oceno filma:
 
 
 Ni statistično pomembne korelacije med mesecem izdaje in oceno filma.
+
+
 ![BudRev](https://github.com/Ninodj123/prog1-projektna/assets/109914375/7d0208bf-a49b-4ecb-a127-7d885861f898)
 
 
