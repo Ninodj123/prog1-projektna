@@ -63,13 +63,17 @@ Je statistično pomembna korelacija med dolžino in oceno.
 
 H3: Korelacija med proračunom in prihodkom: 
 
+
 0.77, P-value: 0.0000
 
 
 Je statistično pomembna korelacija med proračunom in prihodkom.
 
 
-H4: Korelacija med mesecem izdaje in oceno filma: 0.02, P-value: 0.5120
+H4: Korelacija med mesecem izdaje in oceno filma: 
+
+
+0.02, P-value: 0.5120
 
 
 Ni statistično pomembne korelacije med mesecem izdaje in oceno filma.
