@@ -53,12 +53,19 @@ H1: Korelacija med žanrom in oceno:
 Ni statistično pomembne korelacije med žanrom in oceno.
 
 
+![ZanrOcena](https://github.com/Ninodj123/prog1-projektna/assets/109914375/d924a98b-2d0d-44f8-a6c1-27d6f5467a96)
+
+
 H2: Korelacija med dožino filma in oceno: 
+
 
 0.11, P-value: 0.0002
 
 
 Je statistično pomembna korelacija med dolžino in oceno.
+
+
+![DolzinaOcena](https://github.com/Ninodj123/prog1-projektna/assets/109914375/f8e37734-d5f3-4fa4-9ea0-1eb05db37773)
 
 
 H3: Korelacija med proračunom in prihodkom: 
@@ -70,6 +77,9 @@ H3: Korelacija med proračunom in prihodkom:
 Je statistično pomembna korelacija med proračunom in prihodkom.
 
 
+![BudRev](https://github.com/Ninodj123/prog1-projektna/assets/109914375/7d0208bf-a49b-4ecb-a127-7d885861f898)
+
+
 H4: Korelacija med mesecem izdaje in oceno filma: 
 
 
@@ -79,16 +89,15 @@ H4: Korelacija med mesecem izdaje in oceno filma:
 Ni statistično pomembne korelacije med mesecem izdaje in oceno filma.
 
 
-![BudRev](https://github.com/Ninodj123/prog1-projektna/assets/109914375/7d0208bf-a49b-4ecb-a127-7d885861f898)
-
-
-![DolzinaOcena](https://github.com/Ninodj123/prog1-projektna/assets/109914375/f8e37734-d5f3-4fa4-9ea0-1eb05db37773)
-
-
-![ZanrOcena](https://github.com/Ninodj123/prog1-projektna/assets/109914375/d924a98b-2d0d-44f8-a6c1-27d6f5467a96)
-
-
 ![MesecOcena](https://github.com/Ninodj123/prog1-projektna/assets/109914375/f6633258-a1f6-46db-b8d1-455898a05844)
+
+
+
+
+
+
+
+
 
 ## **Viri:**
 
